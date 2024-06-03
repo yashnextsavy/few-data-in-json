@@ -4,7 +4,7 @@
             "id": 1,
             "slug": "luxury-villa-palm-jumeirah",
             "title": "Luxury Villa in Palm Jumeirah",
-            "property_image": "./assets/images/img-1.jpg",
+            "property_image": "https://raw.githubusercontent.com/yashnextsavy/few-data-in-json/master/assets/images/img-1.jpg",
             "property_price": 25000000,
             "currency": "AED",
             "area": "Palm Jumeirah, Dubai",
