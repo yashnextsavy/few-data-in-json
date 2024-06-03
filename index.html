@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Listings</title>
+    <style>
+        .property {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            width: 300px;
+        }
+        .property img {
+            width: 100%;
+        }
+        .property h2 {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+        .property p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Property Listings</h1>
+    <div id="property-container"></div>
+
+    <script>
+        // Define the URL to the JSON file
+        const jsonUrl = 'https://raw.githubusercontent.com/yashnextsavy/few-data-in-json/master/Json-data.json';
+
+        // Fetch the JSON file
+        fetch(jsonUrl)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Log the fetched data for debugging
+                console.log(data);
+
+                // Ensure data is an array
+                if (!Array.isArray(data.properties)) {
+                    throw new Error('Fetched data is not an array');
+                }
+
+                // Handle the JSON data
+                const propertyContainer = document.getElementById('property-container');
+                
+                data.properties.map(property => {
+                    // Create a new div for each property
+                    const propertyDiv = document.createElement('div');
+                    propertyDiv.classList.add('property');
+
+                    // Add the image
+                    const img = document.createElement('img');
+                    img.src = property.property_image;
+                    img.alt = property.title;
+                    propertyDiv.appendChild(img);
+
+                    // Add the title
+                    const title = document.createElement('h2');
+                    title.textContent = property.title;
+                    propertyDiv.appendChild(title);
+
+                    // Add the description
+                    const description = document.createElement('p');
+                    description.textContent = property.small_description;
+                    propertyDiv.appendChild(description);
+
+                    // Append the property div to the container
+                    propertyContainer.appendChild(propertyDiv);
+                });
+            })
+            .catch(error => {
+                // Handle any errors
+                console.error('There has been a problem with your fetch operation:', error);
+            });
+    </script>
+</body>
+</html>
