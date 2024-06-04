@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,18 +12,22 @@
             margin: 10px;
             width: 300px;
         }
+
         .property img {
             width: 100%;
         }
+
         .property h2 {
             font-size: 1.2em;
             margin: 10px 0;
         }
+
         .property p {
             margin: 5px 0;
         }
     </style>
 </head>
+
 <body>
     <h1>Property Listings</h1>
     <div id="property-container"></div>
@@ -50,11 +55,15 @@
 
                 // Handle the JSON data
                 const propertyContainer = document.getElementById('property-container');
-                
+
                 data.properties.map(property => {
                     // Create a new div for each property
                     const propertyDiv = document.createElement('div');
                     propertyDiv.classList.add('property');
+                    // Add the title
+                    const mainId = document.createElement('p');
+                    mainId.textContent = property.id;
+                    propertyDiv.appendChild(mainId);
 
                     // Add the image
                     const img = document.createElement('img');
@@ -82,4 +91,5 @@
             });
     </script>
 </body>
+
 </html>
