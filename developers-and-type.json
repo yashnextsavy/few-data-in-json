@@ -1,0 +1,154 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 2,
+            "developer": "Dubai Properties",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 3,
+            "developer": "Nakheel",
+            "property_type": "Mansion"
+        },
+        {
+            "id": 4,
+            "developer": "Select Group",
+            "property_type": "Penthouse"
+        },
+        {
+            "id": 5,
+            "developer": "Dubai Properties",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 6,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 7,
+            "developer": "DAMAC Properties",
+            "property_type": "Office"
+        },
+        {
+            "id": 8,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 9,
+            "developer": "Meraas",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 10,
+            "developer": "Al Barari Developers",
+            "property_type": "Villa"
+        },
+        {
+            "id": 11,
+            "developer": "Jumeirah Golf Estates",
+            "property_type": "Villa"
+        },
+        {
+            "id": 12,
+            "developer": "Dubai Properties",
+            "property_type": "House"
+        },
+        {
+            "id": 13,
+            "developer": "Dubai Silicon Oasis Authority",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 14,
+            "developer": "Nakheel",
+            "property_type": "Townhouse"
+        },
+        {
+            "id": 15,
+            "developer": "Emaar Properties",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 16,
+            "developer": "Dubai Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 17,
+            "developer": "Meraas",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 18,
+            "developer": "Union Properties",
+            "property_type": "Townhouse"
+        },
+        {
+            "id": 19,
+            "developer": "Meydan",
+            "property_type": "Villa"
+        },
+        {
+            "id": 20,
+            "developer": "Meraas",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 21,
+            "developer": "Nakheel",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 22,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 23,
+            "developer": "Emaar Properties",
+            "property_type": "Penthouse"
+        },
+        {
+            "id": 24,
+            "developer": "Dubai Holding",
+            "property_type": "Residence"
+        },
+        {
+            "id": 25,
+            "developer": "Emaar Properties",
+            "property_type": "Townhouse"
+        },
+        {
+            "id": 26,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 27,
+            "developer": "Emaar Properties",
+            "property_type": "Villa"
+        },
+        {
+            "id": 28,
+            "developer": "Dubai Properties",
+            "property_type": "Apartment"
+        },
+        {
+            "id": 29,
+            "developer": "Emaar Properties",
+            "property_type": "Duplex"
+        },
+        {
+            "id": 30,
+            "developer": "Nakheel",
+            "property_type": "Villa"
+        }
+    ]
+}
