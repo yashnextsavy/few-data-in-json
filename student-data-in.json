@@ -1,0 +1,1111 @@
+{
+    "students": [
+        {
+            "name": "Advik Sharma",
+            "number": "+91 9876543201",
+            "email": "advik.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 9876543202",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 9876543203",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "301, Green Meadows, Model Colony, Pune, Maharashtra, PIN - 411016",
+            "class": 7,
+            "language": "English",
+            "rollNumber": "2024051",
+            "dateOfBirth": "2009-08-12",
+            "age": 12,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Anika Patel",
+            "number": "+91 8765432107",
+            "email": "anika.patel@example.com",
+            "parents": [
+                {
+                    "name": "Nitin Patel",
+                    "number": "+91 8765432108",
+                    "email": "nitin.patel@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Jyoti Patel",
+                    "number": "+91 8765432109",
+                    "email": "jyoti.patel@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "402, Silver Spring, Satellite Road, Ahmedabad, Gujarat, PIN - 380015",
+            "class": 10,
+            "language": "Gujarati",
+            "rollNumber": "2024052",
+            "dateOfBirth": "2006-05-25",
+            "age": 15,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Arnav Singh",
+            "number": "+91 7654321098",
+            "email": "arnav.singh@example.com",
+            "parents": [
+                {
+                    "name": "Amit Singh",
+                    "number": "+91 7654321099",
+                    "email": "amit.singh@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Singh",
+                    "number": "+91 7654321100",
+                    "email": "pooja.singh@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "503, Skyline Apartments, Civil Lines, Jaipur, Rajasthan, PIN - 302006",
+            "class": 12,
+            "language": "Hindi",
+            "rollNumber": "2024053",
+            "dateOfBirth": "2004-02-18",
+            "age": 20,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Aanya Shah",
+            "number": "+91 9876543204",
+            "email": "aanya.shah@example.com",
+            "parents": [
+                {
+                    "name": "Mukesh Shah",
+                    "number": "+91 9876543205",
+                    "email": "mukesh.shah@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Rina Shah",
+                    "number": "+91 9876543206",
+                    "email": "rina.shah@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "604, Sunrise Towers, Nehru Road, Mumbai, Maharashtra, PIN - 400078",
+            "class": 8,
+            "language": "English",
+            "rollNumber": "2024054",
+            "dateOfBirth": "2008-11-05",
+            "age": 13,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Aaryan Reddy",
+            "number": "+91 8765432106",
+            "email": "aaryan.reddy@example.com",
+            "parents": [
+                {
+                    "name": "Vikram Reddy",
+                    "number": "+91 8765432105",
+                    "email": "vikram.reddy@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Deepika Reddy",
+                    "number": "+91 8765432104",
+                    "email": "deepika.reddy@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "705, Green Heights, Bannerghatta Main Road, Bangalore, Karnataka, PIN - 560079",
+            "class": 9,
+            "language": "English",
+            "rollNumber": "2024055",
+            "dateOfBirth": "2007-09-20",
+            "age": 14,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Ishan Gupta",
+            "number": "+91 7654321097",
+            "email": "ishan.gupta@example.com",
+            "parents": [
+                {
+                    "name": "Vivek Gupta",
+                    "number": "+91 7654321096",
+                    "email": "vivek.gupta@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Neha Gupta",
+                    "number": "+91 7654321095",
+                    "email": "neha.gupta@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "806, River View Apartments, Baner-Pashan Link Road, Pune, Maharashtra, PIN - 411021",
+            "class": 7,
+            "language": "English",
+            "rollNumber": "2024056",
+            "dateOfBirth": "2009-07-10",
+            "age": 12,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Anaya Verma",
+            "number": "+91 9876543207",
+            "email": "anaya.verma@example.com",
+            "parents": [
+                {
+                    "name": "Alok Verma",
+                    "number": "+91 9876543208",
+                    "email": "alok.verma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Verma",
+                    "number": "+91 9876543209",
+                    "email": "pooja.verma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "902, Lake Side View, Powai Lake, Mumbai, Maharashtra, PIN - 400076",
+            "class": 9,
+            "language": "Hindi",
+            "rollNumber": "2024057",
+            "dateOfBirth": "2007-12-18",
+            "age": 14,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Vihaan Khanna",
+            "number": "+91 8765432103",
+            "email": "vihaan.khanna@example.com",
+            "parents": [
+                {
+                    "name": "Sameer Khanna",
+                    "number": "+91 8765432102",
+                    "email": "sameer.khanna@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Shikha Khanna",
+                    "number": "+91 8765432101",
+                    "email": "shikha.khanna@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1003, Valley View Towers, MG Road, Bangalore, Karnataka, PIN - 560002",
+            "class": 11,
+            "language": "English",
+            "rollNumber": "2024058",
+            "dateOfBirth": "2003-05-22",
+            "age": 18,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Ananya Mehra",
+            "number": "+91 7654321094",
+            "email": "ananya.mehra@example.com",
+            "parents": [
+                {
+                    "name": "Amit Mehra",
+                    "number": "+91 7654321093",
+                    "email": "amit.mehra@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Shweta Mehra",
+                    "number": "+91 7654321092",
+                    "email": "shweta.mehra@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1104, Silver Hills Colony, Viman Nagar, Pune, Maharashtra, PIN - 411015",
+            "class": 8,
+            "language": "English",
+            "rollNumber": "2024059",
+            "dateOfBirth": "2008-04-30",
+            "age": 13,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Vivaan Gupta",
+            "number": "+91 9876543210",
+            "email": "vivaan.gupta@example.com",
+            "parents": [
+                {
+                    "name": "Rajesh Gupta",
+                    "number": "+91 9876543211",
+                    "email": "rajesh.gupta@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Neha Gupta",
+                    "number": "+91 9876543212",
+                    "email": "neha.gupta@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1205, Palm View Apartments, Sector 45, Gurgaon, Haryana, PIN - 122003",
+            "class": 6,
+            "language": "English",
+            "rollNumber": "2024060",
+            "dateOfBirth": "2010-02-15",
+            "age": 11,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Myra Kapoor",
+            "number": "+91 8765432100",
+            "email": "myra.kapoor@example.com",
+            "parents": [
+                {
+                    "name": "Amit Kapoor",
+                    "number": "+91 8765432101",
+                    "email": "amit.kapoor@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Kapoor",
+                    "number": "+91 8765432102",
+                    "email": "pooja.kapoor@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1306, Emerald Heights, Indiranagar, Lucknow, Uttar Pradesh, PIN - 226016",
+            "class": 5,
+            "language": "Hindi",
+            "rollNumber": "2024061",
+            "dateOfBirth": "2011-07-20",
+            "age": 10,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Shaurya Rajput",
+            "number": "+91 7654321091",
+            "email": "shaurya.rajput@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Rajput",
+                    "number": "+91 7654321090",
+                    "email": "rahul.rajput@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Sunita Rajput",
+                    "number": "+91 7654321089",
+                    "email": "sunita.rajput@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1407, Skyline Heights, Baner Road, Pune, Maharashtra, PIN - 411045",
+            "class": 4,
+            "language": "Marathi",
+            "rollNumber": "2024062",
+            "dateOfBirth": "2012-11-12",
+            "age": 9,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Anvi Singh",
+            "number": "+91 9876543206",
+            "email": "anvi.singh@example.com",
+            "parents": [
+                {
+                    "name": "Amit Singh",
+                    "number": "+91 9876543207",
+                    "email": "amit.singh@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Singh",
+                    "number": "+91 9876543208",
+                    "email": "pooja.singh@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1508, Rosewood Residency, Whitefield, Bangalore, Karnataka, PIN - 560066",
+            "class": 3,
+            "language": "English",
+            "rollNumber": "2024063",
+            "dateOfBirth": "2013-08-05",
+            "age": 8,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Atharv Kumar",
+            "number": "+91 8765432104",
+            "email": "atharv.kumar@example.com",
+            "parents": [
+                {
+                    "name": "Rajesh Kumar",
+                    "number": "+91 8765432105",
+                    "email": "rajesh.kumar@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anita Kumar",
+                    "number": "+91 8765432106",
+                    "email": "anita.kumar@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1609, Serenity Gardens, Kondapur, Hyderabad, Telangana, PIN - 500084",
+            "class": 2,
+            "language": "Telugu",
+            "rollNumber": "2024064",
+            "dateOfBirth": "2014-04-15",
+            "age": 7,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Siya Sharma",
+            "number": "+91 7654321093",
+            "email": "siya.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 7654321092",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 7654321091",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1701, Palm Grove Apartments, JP Nagar, Bangalore, Karnataka, PIN - 560078",
+            "class": 1,
+            "language": "Kannada",
+            "rollNumber": "2024065",
+            "dateOfBirth": "2015-01-30",
+            "age": 6,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Aarav Sharma",
+            "number": "+91 9876543205",
+            "email": "aarav.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 9876543206",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 9876543207",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1802, Green Fields Colony, Sector 15, Gurgaon, Haryana, PIN - 122001",
+            "class": 3,
+            "language": "English",
+            "rollNumber": "2024066",
+            "dateOfBirth": "2013-02-18",
+            "age": 8,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Anaya Gupta",
+            "number": "+91 8765432108",
+            "email": "anaya.gupta@example.com",
+            "parents": [
+                {
+                    "name": "Vivek Gupta",
+                    "number": "+91 8765432109",
+                    "email": "vivek.gupta@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Neha Gupta",
+                    "number": "+91 8765432110",
+                    "email": "neha.gupta@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "1903, Emerald Heights, Banjara Hills, Hyderabad, Telangana, PIN - 500034",
+            "class": 4,
+            "language": "Telugu",
+            "rollNumber": "2024067",
+            "dateOfBirth": "2012-05-25",
+            "age": 9,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Advait Singh",
+            "number": "+91 7654321099",
+            "email": "advait.singh@example.com",
+            "parents": [
+                {
+                    "name": "Amit Singh",
+                    "number": "+91 7654321100",
+                    "email": "amit.singh@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Singh",
+                    "number": "+91 7654321101",
+                    "email": "pooja.singh@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2004, Serene Homes, Whitefield Road, Bangalore, Karnataka, PIN - 560066",
+            "class": 5,
+            "language": "English",
+            "rollNumber": "2024068",
+            "dateOfBirth": "2011-11-05",
+            "age": 10,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Saanvi Kapoor",
+            "number": "+91 9876543204",
+            "email": "saanvi.kapoor@example.com",
+            "parents": [
+                {
+                    "name": "Amit Kapoor",
+                    "number": "+91 9876543205",
+                    "email": "amit.kapoor@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Kapoor",
+                    "number": "+91 9876543206",
+                    "email": "pooja.kapoor@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2105, Silver Springs, Koramangala, Bangalore, Karnataka, PIN - 560034",
+            "class": 6,
+            "language": "Kannada",
+            "rollNumber": "2024069",
+            "dateOfBirth": "2010-08-12",
+            "age": 11,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Reyansh Sharma",
+            "number": "+91 8765432107",
+            "email": "reyansh.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 8765432108",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 8765432109",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2206, Lake View Apartments, Powai, Mumbai, Maharashtra, PIN - 400076",
+            "class": 8,
+            "language": "English",
+            "rollNumber": "2024070",
+            "dateOfBirth": "2008-07-20",
+            "age": 13,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Zara Ahmed",
+            "number": "+91 7654321096",
+            "email": "zara.ahmed@example.com",
+            "parents": [
+                {
+                    "name": "Ahmed Khan",
+                    "number": "+91 7654321095",
+                    "email": "ahmed.khan@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Sana Ahmed",
+                    "number": "+91 7654321094",
+                    "email": "sana.ahmed@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2307, Pearl Residency, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 9,
+            "language": "Telugu",
+            "rollNumber": "2024071",
+            "dateOfBirth": "2007-04-15",
+            "age": 14,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Vihaan Reddy",
+            "number": "+91 9876543200",
+            "email": "vihaan.reddy@example.com",
+            "parents": [
+                {
+                    "name": "Suresh Reddy",
+                    "number": "+91 9876543201",
+                    "email": "suresh.reddy@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anita Reddy",
+                    "number": "+91 9876543202",
+                    "email": "anita.reddy@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2601, Silver Oaks, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 7,
+            "language": "Telugu",
+            "rollNumber": "2024074",
+            "dateOfBirth": "2009-03-10",
+            "age": 12,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Riya Khanna",
+            "number": "+91 8765432101",
+            "email": "riya.khanna@example.com",
+            "parents": [
+                {
+                    "name": "Alok Khanna",
+                    "number": "+91 8765432102",
+                    "email": "alok.khanna@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Khanna",
+                    "number": "+91 8765432103",
+                    "email": "priya.khanna@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2702, Coral Springs, Kharadi, Pune, Maharashtra, PIN - 411014",
+            "class": 8,
+            "language": "English",
+            "rollNumber": "2024075",
+            "dateOfBirth": "2008-06-18",
+            "age": 13,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Kabir Singh",
+            "number": "+91 7654321090",
+            "email": "kabir.singh@example.com",
+            "parents": [
+                {
+                    "name": "Amit Singh",
+                    "number": "+91 7654321091",
+                    "email": "amit.singh@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Singh",
+                    "number": "+91 7654321092",
+                    "email": "pooja.singh@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2803, Blue Ridge Towers, Hinjewadi, Pune, Maharashtra, PIN - 411057",
+            "class": 9,
+            "language": "Hindi",
+            "rollNumber": "2024076",
+            "dateOfBirth": "2007-01-25",
+            "age": 14,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Aadya Sharma",
+            "number": "+91 9876543203",
+            "email": "aadya.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 9876543204",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 9876543205",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "2904, Garden View Apartments, Baner, Pune, Maharashtra, PIN - 411045",
+            "class": 10,
+            "language": "Marathi",
+            "rollNumber": "2024077",
+            "dateOfBirth": "2006-04-30",
+            "age": 15,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Advik Verma",
+            "number": "+91 8765432105",
+            "email": "advik.verma@example.com",
+            "parents": [
+                {
+                    "name": "Vivek Verma",
+                    "number": "+91 8765432106",
+                    "email": "vivek.verma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Shweta Verma",
+                    "number": "+91 8765432107",
+                    "email": "shweta.verma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3005, Lake View Towers, Bellandur, Bangalore, Karnataka, PIN - 560103",
+            "class": 11,
+            "language": "Kannada",
+            "rollNumber": "2024078",
+            "dateOfBirth": "2005-08-12",
+            "age": 16,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Anika Iyer",
+            "number": "+91 7654321098",
+            "email": "anika.iyer@example.com",
+            "parents": [
+                {
+                    "name": "Ravi Iyer",
+                    "number": "+91 7654321097",
+                    "email": "ravi.iyer@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Smita Iyer",
+                    "number": "+91 7654321096",
+                    "email": "smita.iyer@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3106, Green Meadows, Whitefield, Bangalore, Karnataka, PIN - 560066",
+            "class": 1,
+            "language": "English",
+            "rollNumber": "2024079",
+            "dateOfBirth": "2015-05-20",
+            "age": 6,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Vihaan Iyer",
+            "number": "+91 9876543206",
+            "email": "vihaan.iyer@example.com",
+            "parents": [
+                {
+                    "name": "Ravi Iyer",
+                    "number": "+91 9876543207",
+                    "email": "ravi.iyer@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Smita Iyer",
+                    "number": "+91 9876543208",
+                    "email": "smita.iyer@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3207, Silver Springs, Koramangala, Bangalore, Karnataka, PIN - 560034",
+            "class": 2,
+            "language": "Kannada",
+            "rollNumber": "2024080",
+            "dateOfBirth": "2014-10-15",
+            "age": 7,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Saanvi Patel",
+            "number": "+91 8765432104",
+            "email": "saanvi.patel@example.com",
+            "parents": [
+                {
+                    "name": "Nikhil Patel",
+                    "number": "+91 8765432105",
+                    "email": "nikhil.patel@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anjali Patel",
+                    "number": "+91 8765432106",
+                    "email": "anjali.patel@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3308, Palm Grove Apartments, JP Nagar, Bangalore, Karnataka, PIN - 560078",
+            "class": 3,
+            "language": "English",
+            "rollNumber": "2024081",
+            "dateOfBirth": "2013-03-18",
+            "age": 8,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Aarav Patel",
+            "number": "+91 7654321094",
+            "email": "aarav.patel@example.com",
+            "parents": [
+                {
+                    "name": "Nikhil Patel",
+                    "number": "+91 7654321095",
+                    "email": "nikhil.patel@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anjali Patel",
+                    "number": "+91 7654321096",
+                    "email": "anjali.patel@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3409, Emerald Heights, Whitefield, Bangalore, Karnataka, PIN - 560066",
+            "class": 4,
+            "language": "Kannada",
+            "rollNumber": "2024082",
+            "dateOfBirth": "2012-09-25",
+            "age": 9,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Zara Khan",
+            "number": "+91 9876543209",
+            "email": "zara.khan@example.com",
+            "parents": [
+                {
+                    "name": "Imran Khan",
+                    "number": "+91 9876543210",
+                    "email": "imran.khan@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Sana Khan",
+                    "number": "+91 9876543211",
+                    "email": "sana.khan@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3502, Pearl Residency, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 5,
+            "language": "Telugu",
+            "rollNumber": "2024083",
+            "dateOfBirth": "2011-11-05",
+            "age": 10,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Reyansh Kapoor",
+            "number": "+91 8765432108",
+            "email": "reyansh.kapoor@example.com",
+            "parents": [
+                {
+                    "name": "Amit Kapoor",
+                    "number": "+91 8765432109",
+                    "email": "amit.kapoor@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Pooja Kapoor",
+                    "number": "+91 8765432110",
+                    "email": "pooja.kapoor@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3603, Silver Springs, Koramangala, Bangalore, Karnataka, PIN - 560034",
+            "class": 6,
+            "language": "English",
+            "rollNumber": "2024084",
+            "dateOfBirth": "2010-08-12",
+            "age": 11,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Ayaan Sharma",
+            "number": "+91 7654321092",
+            "email": "ayaan.sharma@example.com",
+            "parents": [
+                {
+                    "name": "Rahul Sharma",
+                    "number": "+91 7654321093",
+                    "email": "rahul.sharma@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Priya Sharma",
+                    "number": "+91 7654321094",
+                    "email": "priya.sharma@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3704, Lake View Apartments, Powai, Mumbai, Maharashtra, PIN - 400076",
+            "class": 7,
+            "language": "Marathi",
+            "rollNumber": "2024085",
+            "dateOfBirth": "2009-07-20",
+            "age": 12,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Myra Ahmed",
+            "number": "+91 9876543212",
+            "email": "myra.ahmed@example.com",
+            "parents": [
+                {
+                    "name": "Ahmed Khan",
+                    "number": "+91 9876543213",
+                    "email": "ahmed.khan@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Sana Ahmed",
+                    "number": "+91 9876543214",
+                    "email": "sana.ahmed@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3805, Pearl Residency, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 8,
+            "language": "Telugu",
+            "rollNumber": "2024086",
+            "dateOfBirth": "2008-04-15",
+            "age": 13,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Arjun Choudhary",
+            "number": "+91 8765432113",
+            "email": "arjun.choudhary@example.com",
+            "parents": [
+                {
+                    "name": "Rajesh Choudhary",
+                    "number": "+91 8765432114",
+                    "email": "rajesh.choudhary@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Meera Choudhary",
+                    "number": "+91 8765432115",
+                    "email": "meera.choudhary@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "3906, Hill View Homes, Noida, Uttar Pradesh, PIN - 201301",
+            "class": 9,
+            "language": "Hindi",
+            "rollNumber": "2024087",
+            "dateOfBirth": "2007-10-05",
+            "age": 14,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Aditi Mishra",
+            "number": "+91 7654321090",
+            "email": "aditi.mishra@example.com",
+            "parents": [
+                {
+                    "name": "Amit Mishra",
+                    "number": "+91 7654321091",
+                    "email": "amit.mishra@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Shweta Mishra",
+                    "number": "+91 7654321092",
+                    "email": "shweta.mishra@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4007, Lake Side Apartments, Gomti Nagar, Lucknow, Uttar Pradesh, PIN - 226010",
+            "class": 10,
+            "language": "English",
+            "rollNumber": "2024088",
+            "dateOfBirth": "2006-02-12",
+            "age": 15,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Aarav Reddy",
+            "number": "+91 9876543216",
+            "email": "aarav.reddy@example.com",
+            "parents": [
+                {
+                    "name": "Suresh Reddy",
+                    "number": "+91 9876543217",
+                    "email": "suresh.reddy@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anita Reddy",
+                    "number": "+91 9876543218",
+                    "email": "anita.reddy@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4108, Silver Oaks, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 11,
+            "language": "Telugu",
+            "rollNumber": "2024089",
+            "dateOfBirth": "2005-01-10",
+            "age": 16,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Aisha Khan",
+            "number": "+91 8765432118",
+            "email": "aisha.khan@example.com",
+            "parents": [
+                {
+                    "name": "Imran Khan",
+                    "number": "+91 8765432119",
+                    "email": "imran.khan@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Sana Khan",
+                    "number": "+91 8765432120",
+                    "email": "sana.khan@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4209, Pearl Residency, Jubilee Hills, Hyderabad, Telangana, PIN - 500033",
+            "class": 12,
+            "language": "Urdu",
+            "rollNumber": "2024090",
+            "dateOfBirth": "2004-05-05",
+            "age": 17,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Mohammad Ali",
+            "number": "+91 7654321094",
+            "email": "mohammad.ali@example.com",
+            "parents": [
+                {
+                    "name": "Ahmed Ali",
+                    "number": "+91 7654321095",
+                    "email": "ahmed.ali@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Fatima Ali",
+                    "number": "+91 7654321096",
+                    "email": "fatima.ali@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4302, Silver Springs, Koramangala, Bangalore, Karnataka, PIN - 560034",
+            "class": 8,
+            "language": "Kannada",
+            "rollNumber": "2024091",
+            "dateOfBirth": "2008-11-15",
+            "age": 13,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "name": "Ananya Rao",
+            "number": "+91 9876543221",
+            "email": "ananya.rao@example.com",
+            "parents": [
+                {
+                    "name": "Ravi Rao",
+                    "number": "+91 9876543222",
+                    "email": "ravi.rao@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Smita Rao",
+                    "number": "+91 9876543223",
+                    "email": "smita.rao@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4403, Emerald Heights, Whitefield, Bangalore, Karnataka, PIN - 560066",
+            "class": 9,
+            "language": "English",
+            "rollNumber": "2024092",
+            "dateOfBirth": "2007-03-20",
+            "age": 14,
+            "gender": "Female",
+            "photo": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "name": "Ishaan Patel",
+            "number": "+91 8765432124",
+            "email": "ishaan.patel@example.com",
+            "parents": [
+                {
+                    "name": "Nikhil Patel",
+                    "number": "+91 8765432125",
+                    "email": "nikhil.patel@example.com",
+                    "relation": "Father"
+                },
+                {
+                    "name": "Anjali Patel",
+                    "number": "+91 8765432126",
+                    "email": "anjali.patel@example.com",
+                    "relation": "Mother"
+                }
+            ],
+            "address": "4504, Palm Grove Apartments, JP Nagar, Bangalore, Karnataka, PIN - 560078",
+            "class": 10,
+            "language": "Hindi",
+            "rollNumber": "2024093",
+            "dateOfBirth": "2006-06-25",
+            "age": 15,
+            "gender": "Male",
+            "photo": "https://avatar.iran.liara.run/public/50"
+        }
+    ]
+}
