@@ -1,0 +1,952 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2023,
+      "type": "Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 50,
+      "available": true,
+      "features": [
+        "Air Conditioning",
+        "Bluetooth Connectivity",
+        "Backup Camera"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/toyota-corolla.jpg",
+          "alt": "Toyota Corolla"
+        }
+      ],
+      "slug": "toyota-corolla-2023"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 70,
+      "available": true,
+      "features": [
+        "All-Wheel Drive",
+        "Sunroof",
+        "Navigation System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/honda-crv.jpg",
+          "alt": "Honda CR-V"
+        }
+      ],
+      "slug": "honda-crv-2022"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2021,
+      "type": "Truck",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 90,
+      "available": false,
+      "features": [
+        "Towing Package",
+        "Bed Liner",
+        "Leather Seats"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/ford-f150.jpg",
+          "alt": "Ford F-150"
+        }
+      ],
+      "slug": "ford-f-150-2021"
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2022,
+      "type": "Sports Car",
+      "seats": 4,
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "pricePerDay": 80,
+      "available": true,
+      "features": [
+        "Sport Mode",
+        "Rear Spoiler",
+        "Performance Exhaust"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/chevrolet-camaro.jpg",
+          "alt": "Chevrolet Camaro"
+        }
+      ],
+      "slug": "chevrolet-camaro-2022"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 120,
+      "available": true,
+      "features": [
+        "Leather Interior",
+        "Panoramic Sunroof",
+        "Premium Audio System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/bmw-x5-1.jpg",
+          "alt": "BMW X5 Front View"
+        },
+        {
+          "url": "https://example.com/bmw-x5-2.jpg",
+          "alt": "BMW X5 Side View"
+        },
+        {
+          "url": "https://example.com/bmw-x5-3.jpg",
+          "alt": "BMW X5 Interior"
+        }
+      ],
+      "slug": "bmw-x5-2023"
+    },
+    {
+      "id": 6,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2022,
+      "type": "Luxury Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 110,
+      "available": true,
+      "features": [
+        "MBUX Infotainment System",
+        "Massage Seats",
+        "Adaptive Cruise Control"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/mercedes-e-class-1.jpg",
+          "alt": "Mercedes-Benz E-Class Front View"
+        },
+        {
+          "url": "https://example.com/mercedes-e-class-2.jpg",
+          "alt": "Mercedes-Benz E-Class Rear View"
+        }
+      ],
+      "slug": "mercedes-e-class-2022"
+    },
+    {
+      "id": 7,
+      "make": "Audi",
+      "model": "Q7",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 150,
+      "available": false,
+      "features": [
+        "Virtual Cockpit",
+        "Bang & Olufsen Sound System",
+        "Matrix LED Headlights"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/audi-q7-1.jpg",
+          "alt": "Audi Q7 Front View"
+        },
+        {
+          "url": "https://example.com/audi-q7-2.jpg",
+          "alt": "Audi Q7 Interior"
+        },
+        {
+          "url": "https://example.com/audi-q7-3.jpg",
+          "alt": "Audi Q7 Rear View"
+        }
+      ],
+      "slug": "audi-q7-2023"
+    },
+    {
+      "id": 8,
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2023,
+      "type": "Electric Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Electric",
+      "pricePerDay": 180,
+      "available": true,
+      "features": [
+        "Autopilot",
+        "Panoramic Roof",
+        "High-Performance Dual Motor"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/tesla-model-s-1.jpg",
+          "alt": "Tesla Model S Front View"
+        },
+        {
+          "url": "https://example.com/tesla-model-s-2.jpg",
+          "alt": "Tesla Model S Interior"
+        }
+      ],
+      "slug": "tesla-model-s-2023"
+    },
+    {
+      "id": 9,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 4,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 100,
+      "available": true,
+      "features": [
+        "4x4 Capability",
+        "Removable Top",
+        "Trail Rated"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/jeep-wrangler-1.jpg",
+          "alt": "Jeep Wrangler Front View"
+        },
+        {
+          "url": "https://example.com/jeep-wrangler-2.jpg",
+          "alt": "Jeep Wrangler Side View"
+        },
+        {
+          "url": "https://example.com/jeep-wrangler-3.jpg",
+          "alt": "Jeep Wrangler Interior"
+        }
+      ],
+      "slug": "jeep-wrangler-2022"
+    },
+    {
+      "id": 10,
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 160,
+      "available": true,
+      "features": [
+        "City Safety Collision Avoidance",
+        "Bowers & Wilkins Audio",
+        "360-Degree Camera"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/volvo-xc90-1.jpg",
+          "alt": "Volvo XC90 Front View"
+        },
+        {
+          "url": "https://example.com/volvo-xc90-2.jpg",
+          "alt": "Volvo XC90 Side View"
+        },
+        {
+          "url": "https://example.com/volvo-xc90-3.jpg",
+          "alt": "Volvo XC90 Interior"
+        }
+      ],
+      "slug": "volvo-xc90-2023"
+    },
+    {
+      "id": 11,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2022,
+      "type": "Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 60,
+      "available": true,
+      "features": [
+        "SmartSense Safety Features",
+        "Premium Audio System",
+        "Wireless Device Charging"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/hyundai-sonata-1.jpg",
+          "alt": "Hyundai Sonata Front View"
+        },
+        {
+          "url": "https://example.com/hyundai-sonata-2.jpg",
+          "alt": "Hyundai Sonata Rear View"
+        }
+      ],
+      "slug": "hyundai-sonata-2022"
+    },
+    {
+      "id": 12,
+      "make": "Lexus",
+      "model": "RX",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 140,
+      "available": true,
+      "features": [
+        "Lexus Safety System+",
+        "Mark Levinson Audio",
+        "Heated and Ventilated Seats"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/lexus-rx-1.jpg",
+          "alt": "Lexus RX Front View"
+        },
+        {
+          "url": "https://example.com/lexus-rx-2.jpg",
+          "alt": "Lexus RX Side View"
+        },
+        {
+          "url": "https://example.com/lexus-rx-3.jpg",
+          "alt": "Lexus RX Interior"
+        }
+      ],
+      "slug": "lexus-rx-2023"
+    },
+    {
+      "id": 13,
+      "make": "Land Rover",
+      "model": "Discovery",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 170,
+      "available": true,
+      "features": [
+        "Terrain Response System",
+        "3D Surround Camera",
+        "Premium Leather Interior"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/land-rover-discovery-1.jpg",
+          "alt": "Land Rover Discovery Front View"
+        },
+        {
+          "url": "https://example.com/land-rover-discovery-2.jpg",
+          "alt": "Land Rover Discovery Side View"
+        },
+        {
+          "url": "https://example.com/land-rover-discovery-3.jpg",
+          "alt": "Land Rover Discovery Interior"
+        }
+      ],
+      "slug": "land-rover-discovery-2022"
+    },
+    {
+      "id": 14,
+      "make": "Porsche",
+      "model": "911",
+      "year": 2023,
+      "type": "Sports Car",
+      "seats": 4,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 250,
+      "available": true,
+      "features": [
+        "Turbocharged Engine",
+        "Porsche Active Suspension Management",
+        "Sport Chrono Package"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/porsche-911-1.jpg",
+          "alt": "Porsche 911 Front View"
+        },
+        {
+          "url": "https://example.com/porsche-911-2.jpg",
+          "alt": "Porsche 911 Side View"
+        },
+        {
+          "url": "https://example.com/porsche-911-3.jpg",
+          "alt": "Porsche 911 Interior"
+        }
+      ],
+      "slug": "porsche-911-2023"
+    },
+    {
+      "id": 15,
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 75,
+      "available": true,
+      "features": [
+        "i-Activ AWD System",
+        "Bose Premium Audio",
+        "Advanced Smart City Brake Support"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/mazda-cx5-1.jpg",
+          "alt": "Mazda CX-5 Front View"
+        },
+        {
+          "url": "https://example.com/mazda-cx5-2.jpg",
+          "alt": "Mazda CX-5 Side View"
+        },
+        {
+          "url": "https://example.com/mazda-cx5-3.jpg",
+          "alt": "Mazda CX-5 Interior"
+        }
+      ],
+      "slug": "mazda-cx5-2022"
+    },
+    {
+      "id": 16,
+      "make": "Kia",
+      "model": "Telluride",
+      "year": 2023,
+      "type": "SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 110,
+      "available": true,
+      "features": [
+        "Harman Kardon Premium Audio",
+        "Smart Cruise Control with Stop & Go",
+        "Driver Talk & Quiet Mode"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/kia-telluride-1.jpg",
+          "alt": "Kia Telluride Front View"
+        },
+        {
+          "url": "https://example.com/kia-telluride-2.jpg",
+          "alt": "Kia Telluride Side View"
+        },
+        {
+          "url": "https://example.com/kia-telluride-3.jpg",
+          "alt": "Kia Telluride Interior"
+        }
+      ],
+      "slug": "kia-telluride-2023"
+    },
+    {
+      "id": 17,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2022,
+      "type": "Wagon",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 85,
+      "available": true,
+      "features": [
+        "Symmetrical All-Wheel Drive",
+        "EyeSight Driver Assist Technology",
+        "11.6-inch Multimedia Display"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/subaru-outback-1.jpg",
+          "alt": "Subaru Outback Front View"
+        },
+        {
+          "url": "https://example.com/subaru-outback-2.jpg",
+          "alt": "Subaru Outback Side View"
+        },
+        {
+          "url": "https://example.com/subaru-outback-3.jpg",
+          "alt": "Subaru Outback Interior"
+        }
+      ],
+      "slug": "subaru-outback-2022"
+    },
+    {
+      "id": 18,
+      "make": "Infiniti",
+      "model": "QX60",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 155,
+      "available": true,
+      "features": [
+        "Tri-Zone Automatic Temperature Control System",
+        "Intelligent All-Wheel Drive",
+        "Bose Performance Series Audio System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/infiniti-qx60-1.jpg",
+          "alt": "Infiniti QX60 Front View"
+        },
+        {
+          "url": "https://example.com/infiniti-qx60-2.jpg",
+          "alt": "Infiniti QX60 Side View"
+        },
+        {
+          "url": "https://example.com/infiniti-qx60-3.jpg",
+          "alt": "Infiniti QX60 Interior"
+        }
+      ],
+      "slug": "infiniti-qx60-2023"
+    },
+    {
+      "id": 19,
+      "make": "Buick",
+      "model": "Enclave",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 95,
+      "available": true,
+      "features": [
+        "QuietTuning™ Technology",
+        "Buick Infotainment System with Navigation",
+        "Power Moonroof"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/buick-enclave-1.jpg",
+          "alt": "Buick Enclave Front View"
+        },
+        {
+          "url": "https://example.com/buick-enclave-2.jpg",
+          "alt": "Buick Enclave Side View"
+        },
+        {
+          "url": "https://example.com/buick-enclave-3.jpg",
+          "alt": "Buick Enclave Interior"
+        }
+      ],
+      "slug": "buick-enclave-2022"
+    },
+    {
+      "id": 20,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "type": "Sports Car",
+      "seats": 4,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 130,
+      "available": true,
+      "features": [
+        "Ford Co-Pilot360™",
+        "B&O Sound System by Bang & Olufsen",
+        "Magneride Damping System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/ford-mustang-1.jpg",
+          "alt": "Ford Mustang Front View"
+        },
+        {
+          "url": "https://example.com/ford-mustang-2.jpg",
+          "alt": "Ford Mustang Side View"
+        },
+        {
+          "url": "https://example.com/ford-mustang-3.jpg",
+          "alt": "Ford Mustang Interior"
+        }
+      ],
+      "slug": "ford-mustang-2023"
+    },
+    {
+      "id": 21,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 8,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 120,
+      "available": true,
+      "features": [
+        "Chevrolet Infotainment 3 Plus System",
+        "Bose Premium 9-Speaker Audio System",
+        "Tri-Zone Automatic Climate Control"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/chevrolet-tahoe-1.jpg",
+          "alt": "Chevrolet Tahoe Front View"
+        },
+        {
+          "url": "https://example.com/chevrolet-tahoe-2.jpg",
+          "alt": "Chevrolet Tahoe Side View"
+        },
+        {
+          "url": "https://example.com/chevrolet-tahoe-3.jpg",
+          "alt": "Chevrolet Tahoe Interior"
+        }
+      ],
+      "slug": "chevrolet-tahoe-2022"
+    },
+    {
+      "id": 22,
+      "make": "Audi",
+      "model": "A6",
+      "year": 2023,
+      "type": "Luxury Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 180,
+      "available": true,
+      "features": [
+        "Virtual Cockpit",
+        "Bang & Olufsen Premium Sound System",
+        "Matrix LED Headlights"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/audi-a6-1.jpg",
+          "alt": "Audi A6 Front View"
+        },
+        {
+          "url": "https://example.com/audi-a6-2.jpg",
+          "alt": "Audi A6 Side View"
+        },
+        {
+          "url": "https://example.com/audi-a6-3.jpg",
+          "alt": "Audi A6 Interior"
+        }
+      ],
+      "slug": "audi-a6-2023"
+    },
+    {
+      "id": 23,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "pricePerDay": 200,
+      "available": true,
+      "features": [
+        "Gesture Control",
+        "Panoramic Sky Lounge LED Roof",
+        "Harman Kardon Surround Sound System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/bmw-x5-1.jpg",
+          "alt": "BMW X5 Front View"
+        },
+        {
+          "url": "https://example.com/bmw-x5-2.jpg",
+          "alt": "BMW X5 Side View"
+        },
+        {
+          "url": "https://example.com/bmw-x5-3.jpg",
+          "alt": "BMW X5 Interior"
+        }
+      ],
+      "slug": "bmw-x5-2022"
+    },
+    {
+      "id": 24,
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": 2023,
+      "type": "Luxury SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 220,
+      "available": true,
+      "features": [
+        "MBUX Infotainment System",
+        "AIRMATIC Suspension",
+        "Multicontour Front Seats with Massage"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/mercedes-gle-1.jpg",
+          "alt": "Mercedes-Benz GLE Front View"
+        },
+        {
+          "url": "https://example.com/mercedes-gle-2.jpg",
+          "alt": "Mercedes-Benz GLE Side View"
+        },
+        {
+          "url": "https://example.com/mercedes-gle-3.jpg",
+          "alt": "Mercedes-Benz GLE Interior"
+        }
+      ],
+      "slug": "mercedes-gle-2023"
+    },
+    {
+      "id": 25,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "type": "Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 90,
+      "available": true,
+      "features": [
+        "Toyota Safety Sense",
+        "JBL Premium Audio System",
+        "Smart Key System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/toyota-camry-1.jpg",
+          "alt": "Toyota Camry Front View"
+        },
+        {
+          "url": "https://example.com/toyota-camry-2.jpg",
+          "alt": "Toyota Camry Side View"
+        },
+        {
+          "url": "https://example.com/toyota-camry-3.jpg",
+          "alt": "Toyota Camry Interior"
+        }
+      ],
+      "slug": "toyota-camry-2022"
+    },
+    {
+      "id": 26,
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2023,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 95,
+      "available": true,
+      "features": [
+        "Honda Sensing® Suite",
+        "Apple CarPlay® Integration",
+        "Power Tailgate"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/honda-crv-1.jpg",
+          "alt": "Honda CR-V Front View"
+        },
+        {
+          "url": "https://example.com/honda-crv-2.jpg",
+          "alt": "Honda CR-V Side View"
+        },
+        {
+          "url": "https://example.com/honda-crv-3.jpg",
+          "alt": "Honda CR-V Interior"
+        }
+      ],
+      "slug": "honda-crv-2023"
+    },
+    {
+      "id": 27,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "type": "Sedan",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 85,
+      "available": true,
+      "features": [
+        "Intelligent Forward Collision Warning",
+        "NissanConnect® Services",
+        "Remote Engine Start System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/nissan-altima-1.jpg",
+          "alt": "Nissan Altima Front View"
+        },
+        {
+          "url": "https://example.com/nissan-altima-2.jpg",
+          "alt": "Nissan Altima Side View"
+        },
+        {
+          "url": "https://example.com/nissan-altima-3.jpg",
+          "alt": "Nissan Altima Interior"
+        }
+      ],
+      "slug": "nissan-altima-2022"
+    },
+    {
+      "id": 28,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": 2023,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 100,
+      "available": true,
+      "features": [
+        "Hyundai SmartSense",
+        "12.3-inch Digital Instrument Cluster",
+        "BOSE Premium Audio System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/hyundai-santafe-1.jpg",
+          "alt": "Hyundai Santa Fe Front View"
+        },
+        {
+          "url": "https://example.com/hyundai-santafe-2.jpg",
+          "alt": "Hyundai Santa Fe Side View"
+        },
+        {
+          "url": "https://example.com/hyundai-santafe-3.jpg",
+          "alt": "Hyundai Santa Fe Interior"
+        }
+      ],
+      "slug": "hyundai-santafe-2023"
+    },
+    {
+      "id": 29,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2022,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 105,
+      "available": true,
+      "features": [
+        "Volkswagen Digital Cockpit",
+        "Fender® Premium Audio System",
+        "4MOTION® All-Wheel Drive"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/volkswagen-tiguan-1.jpg",
+          "alt": "Volkswagen Tiguan Front View"
+        },
+        {
+          "url": "https://example.com/volkswagen-tiguan-2.jpg",
+          "alt": "Volkswagen Tiguan Side View"
+        },
+        {
+          "url": "https://example.com/volkswagen-tiguan-3.jpg",
+          "alt": "Volkswagen Tiguan Interior"
+        }
+      ],
+      "slug": "volkswagen-tiguan-2022"
+    },
+    {
+      "id": 30,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2023,
+      "type": "SUV",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 125,
+      "available": true,
+      "features": [
+        "Quadra-Lift Air Suspension",
+        "Uconnect® 5 Navigation",
+        "Harman Kardon® Premium Audio System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/jeep-grandcherokee-1.jpg",
+          "alt": "Jeep Grand Cherokee Front View"
+        },
+        {
+          "url": "https://example.com/jeep-grandcherokee-2.jpg",
+          "alt": "Jeep Grand Cherokee Side View"
+        },
+        {
+          "url": "https://example.com/jeep-grandcherokee-3.jpg",
+          "alt": "Jeep Grand Cherokee Interior"
+        }
+      ],
+      "slug": "jeep-grandcherokee-2023"
+    },
+    {
+      "id": 31,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2022,
+      "type": "Wagon",
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "pricePerDay": 95,
+      "available": true,
+      "features": [
+        "Subaru Symmetrical All-Wheel Drive",
+        "11.6-inch Multimedia Display",
+        "Harman Kardon Premium Audio System"
+      ],
+      "images": [
+        {
+          "url": "https://example.com/subaru-outback-1.jpg",
+          "alt": "Subaru Outback Front View"
+        },
+        {
+          "url": "https://example.com/subaru-outback-2.jpg",
+          "alt": "Subaru Outback Side View"
+        },
+        {
+          "url": "https://example.com/subaru-outback-3.jpg",
+          "alt": "Subaru Outback Interior"
+        }
+      ],
+      "slug": "subaru-outback-2022"
+    }
+  ]
+}
