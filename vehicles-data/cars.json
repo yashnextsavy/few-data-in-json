@@ -18,7 +18,7 @@
       ],
       "images": [
         {
-          "url": "https://example.com/toyota-corolla.jpg",
+          "url": "https://raw.githubusercontent.com/yashnextsavy/few-data-in-json/master/vehicles-data/assets/image/toyota-corolla.jpg",
           "alt": "Toyota Corolla"
         }
       ],
@@ -42,7 +42,7 @@
       ],
       "images": [
         {
-          "url": "https://example.com/honda-crv.jpg",
+          "url": "https://raw.githubusercontent.com/yashnextsavy/few-data-in-json/master/vehicles-data/assets/image/honda-crv.jpg",
           "alt": "Honda CR-V"
         }
       ],
@@ -66,7 +66,7 @@
       ],
       "images": [
         {
-          "url": "https://example.com/ford-f150.jpg",
+          "url": "https://raw.githubusercontent.com/yashnextsavy/few-data-in-json/master/vehicles-data/assets/image/ford-f150.jpg",
           "alt": "Ford F-150"
         }
       ],
