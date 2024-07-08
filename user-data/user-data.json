@@ -1,0 +1,274 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "john_doe",
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "password": "TempPass123",
+            "phoneNumber": "+1234567890",
+            "address": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "Anystate",
+                "zipCode": "12345",
+                "country": "USA"
+            },
+            "dateOfBirth": "1990-01-01",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 2,
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "password": "TempPass456",
+            "phoneNumber": "+0987654321",
+            "address": {
+                "street": "456 Elm St",
+                "city": "Othertown",
+                "state": "Otherstate",
+                "zipCode": "54321",
+                "country": "USA"
+            },
+            "dateOfBirth": "1985-05-15",
+            "role": "admin",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 3,
+            "username": "alice_jones",
+            "name": "Alice Jones",
+            "email": "alice.jones@example.com",
+            "password": "TempPass789",
+            "phoneNumber": "+1122334455",
+            "address": {
+                "street": "789 Oak St",
+                "city": "Sometown",
+                "state": "Somestate",
+                "zipCode": "67890",
+                "country": "USA"
+            },
+            "dateOfBirth": "1995-12-25",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 4,
+            "username": "michael_brown",
+            "name": "Michael Brown",
+            "email": "michael.brown@example.com",
+            "password": "TempPass101",
+            "phoneNumber": "+2233445566",
+            "address": {
+                "street": "101 Pine St",
+                "city": "Anycity",
+                "state": "Anystate",
+                "zipCode": "11223",
+                "country": "USA"
+            },
+            "dateOfBirth": "1988-02-20",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 5,
+            "username": "emily_white",
+            "name": "Emily White",
+            "email": "emily.white@example.com",
+            "password": "TempPass202",
+            "phoneNumber": "+3344556677",
+            "address": {
+                "street": "202 Birch St",
+                "city": "Othertown",
+                "state": "Otherstate",
+                "zipCode": "22334",
+                "country": "USA"
+            },
+            "dateOfBirth": "1992-03-30",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 6,
+            "username": "daniel_wilson",
+            "name": "Daniel Wilson",
+            "email": "daniel.wilson@example.com",
+            "password": "TempPass303",
+            "phoneNumber": "+4455667788",
+            "address": {
+                "street": "303 Cedar St",
+                "city": "Somecity",
+                "state": "Somestate",
+                "zipCode": "33445",
+                "country": "USA"
+            },
+            "dateOfBirth": "1986-04-10",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 7,
+            "username": "sarah_miller",
+            "name": "Sarah Miller",
+            "email": "sarah.miller@example.com",
+            "password": "TempPass404",
+            "phoneNumber": "+5566778899",
+            "address": {
+                "street": "404 Maple St",
+                "city": "Anycity",
+                "state": "Anystate",
+                "zipCode": "44556",
+                "country": "USA"
+            },
+            "dateOfBirth": "1993-05-20",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 8,
+            "username": "david_clark",
+            "name": "David Clark",
+            "email": "david.clark@example.com",
+            "password": "TempPass505",
+            "phoneNumber": "+6677889900",
+            "address": {
+                "street": "505 Willow St",
+                "city": "Othercity",
+                "state": "Otherstate",
+                "zipCode": "55667",
+                "country": "USA"
+            },
+            "dateOfBirth": "1989-06-25",
+            "role": "admin",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 9,
+            "username": "linda_taylor",
+            "name": "Linda Taylor",
+            "email": "linda.taylor@example.com",
+            "password": "TempPass606",
+            "phoneNumber": "+7788990011",
+            "address": {
+                "street": "606 Aspen St",
+                "city": "Somecity",
+                "state": "Somestate",
+                "zipCode": "66778",
+                "country": "USA"
+            },
+            "dateOfBirth": "1991-07-15",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 10,
+            "username": "robert_moore",
+            "name": "Robert Moore",
+            "email": "robert.moore@example.com",
+            "password": "TempPass707",
+            "phoneNumber": "+8899001122",
+            "address": {
+                "street": "707 Spruce St",
+                "city": "Anycity",
+                "state": "Anystate",
+                "zipCode": "77889",
+                "country": "USA"
+            },
+            "dateOfBirth": "1994-08-05",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 11,
+            "username": "olivia_adams",
+            "name": "Olivia Adams",
+            "email": "olivia.adams@example.com",
+            "password": "TempPass808",
+            "phoneNumber": "+1122334455",
+            "address": {
+                "street": "808 Pine St",
+                "city": "Sometown",
+                "state": "Somestate",
+                "zipCode": "88990",
+                "country": "USA"
+            },
+            "dateOfBirth": "1993-11-12",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 12,
+            "username": "matthew_carter",
+            "name": "Matthew Carter",
+            "email": "matthew.carter@example.com",
+            "password": "TempPass909",
+            "phoneNumber": "+3344556677",
+            "address": {
+                "street": "909 Elm St",
+                "city": "Othertown",
+                "state": "Otherstate",
+                "zipCode": "55667",
+                "country": "USA"
+            },
+            "dateOfBirth": "1987-08-25",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 13,
+            "username": "sophia_baker",
+            "name": "Sophia Baker",
+            "email": "sophia.baker@example.com",
+            "password": "TempPass1010",
+            "phoneNumber": "+5566778899",
+            "address": {
+                "street": "1010 Oak St",
+                "city": "Anycity",
+                "state": "Anystate",
+                "zipCode": "77889",
+                "country": "USA"
+            },
+            "dateOfBirth": "1990-04-30",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/92"
+        },
+        {
+            "id": 14,
+            "username": "ethan_gonzalez",
+            "name": "Ethan Gonzalez",
+            "email": "ethan.gonzalez@example.com",
+            "password": "TempPass1111",
+            "phoneNumber": "+7788990011",
+            "address": {
+                "street": "1111 Maple St",
+                "city": "Somecity",
+                "state": "Somestate",
+                "zipCode": "66778",
+                "country": "USA"
+            },
+            "dateOfBirth": "1989-05-15",
+            "role": "user",
+            "image": "https://avatar.iran.liara.run/public/50"
+        },
+        {
+            "id": 15,
+            "username": "ava_hall",
+            "name": "Ava Hall",
+            "email": "ava.hall@example.com",
+            "password": "TempPass1212",
+            "phoneNumber": "+8899001122",
+            "address": {
+                "street": "1212 Cedar St",
+                "city": "Anycity",
+                "state": "Anystate",
+                "zipCode": "11223",
+                "country": "USA"
+            },
+            "dateOfBirth": "1991-12-10",
+            "role": "admin",
+            "image": "https://avatar.iran.liara.run/public/92"
+        }
+    ]
+}
