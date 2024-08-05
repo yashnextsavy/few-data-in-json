@@ -1,0 +1,34 @@
+{
+    "articles": [
+      {
+        "category": "blockchain",
+        "authors": ["Nichole Becker", "Daryl Wehner"],
+        "title": "Understanding the power of bitcoin and blockchain"
+      },
+      {
+        "category": "design",
+        "author": "Daryl Wehner",
+        "title": "The color of cherry blossoms as a symbol of branding"
+      },
+      {
+        "category": "inspiration",
+        "author": "Brenda Reichel",
+        "title": "Comfort and simplicity are two keys"
+      },
+      {
+        "category": "design",
+        "author": "Damian Erdman",
+        "title": "Being unique is better than being perfect"
+      },
+      {
+        "category": "design",
+        "author": "Breana Flatley",
+        "title": "Problems are not stop signs, they are guidelines"
+      }
+    ],
+    "mission": {
+      "statement": "Our mission is to create a community that inspires, informs, and empowers its members.",
+      "details": "Through a diverse range of articles, we delve into the realms of health, design, and web-related subjects. Whether it's exploring the latest trends in wellness, discussing innovative design concepts, or unraveling the intricacies of the digital landscape, we strive to provide content that not only informs but also sparks creativity and fosters a sense of well-being. Join us on this journey of positivity, knowledge, and inspiration!"
+    }
+  }
+  
